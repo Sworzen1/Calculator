@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.cal-body{
+  max-width: 400px;
+  margin: auto;
+
+}
+.result {
+  background-color:gray;
+  height: 60px;
+  width: 100%;
+}
+.result p{
+  font-size: 40px;
+}
+.buttons{
+  display: block;
+  background-color: white;
+}
+.buttons button {
+  width: 25%;
+  height: 60px;
+  font-size: 35px; 
+}
+.buttons .button1 {
+  width: 100%;
+  height: 120px;
+  font-size: 35px; 
+}
+.buttons .xd {
+  width: 25%;
+
+  float: right;
+}
+
